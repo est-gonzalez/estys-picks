@@ -5,14 +5,14 @@ import {getStorage} from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: process.env.STOREFRONT_FIREBASE_API_KEY,
-  authDomain: process.env.STOREFRONT_FIREBASE_AUTH_DOMAIN,
-  databaseURL: process.env.STOREFRONT_FIREBASE_DATABASE_URL,
-  projectId: process.env.STOREFRONT_FIREBASE_PROJECT_ID, 
-  storageBucket:process.env.STOREFRONT_FIREBASE_STORAGE_BUCKET,  
-  messagingSenderId:  process.env.STOREFRONT_FIREBASE_MESSAGING_SENDER_ID,
-  appId:  process.env.STOREFRONT_FIREBASE_APP_ID,
-};
+    apiKey: "AIzaSyAkeO81IHg7Ydoq_siGvFpXaUrqtskNp0g",
+    authDomain: "estys-picks.firebaseapp.com",
+    databaseURL: "https://estys-picks-default-rtdb.firebaseio.com",
+    projectId: "estys-picks",
+    storageBucket: "estys-picks.appspot.com",
+    messagingSenderId: "444884710280",
+    appId: "1:444884710280:web:a9d9323ade12c0d2a5c03d"
+  };
  
 
 // Initialize Firebase Services
