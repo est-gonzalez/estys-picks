@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "firebase": "^9.6.6",
+    "parcel": "^2.3.1"
+  },
+  "name": "dashboard-assignment1",
+  "description": "dashboard assignment",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/est-gonzalez/estys-picks.git"
+  },
+  "keywords": [
+    "dashboard",
+    "app"
+  ],
+  "author": "Esteban Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/est-gonzalez/estys-picks/issues"
+  },
+  "homepage": "https://github.com/est-gonzalez/estys-picks#readme"
+}
